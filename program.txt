@@ -8,3 +8,9 @@ css
 
 
 thanku
+
+
+
+postgresql
+mysql
+big data
